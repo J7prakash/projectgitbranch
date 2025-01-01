@@ -1,1 +1,1 @@
-This is the file from testfor conflict branch
+This is the file from testforconflict branch
